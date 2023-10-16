@@ -2,13 +2,20 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
+// @ts-ignore
 import * as $0 from "./routes/_404.tsx";
+// @ts-ignore
 import * as $1 from "./routes/_app.tsx";
+// @ts-ignore
 import * as $2 from "./routes/api/joke.ts";
+// @ts-ignore
 import * as $3 from "./routes/greet/[name].tsx";
+// @ts-ignore
 import * as $4 from "./routes/index.tsx";
+// @ts-ignore
 import * as $$0 from "./islands/Counter.tsx";
 
+// @ts-ignore
 const manifest = {
   routes: {
     "./routes/_404.tsx": $0,
@@ -20,6 +27,7 @@ const manifest = {
   islands: {
     "./islands/Counter.tsx": $$0,
   },
+  // @ts-ignore
   baseUrl: import.meta.url,
 };
 
