@@ -1,3 +1,4 @@
+// @ts-ignore
 import { HandlerContext } from "$fresh/server.ts";
 
 // Jokes courtesy of https://punsandoneliners.com/randomness/programmer-jokes/
